@@ -2,6 +2,14 @@
 
 Topics of Shell Scripting
 
-    Comment
-    Print
+    Comments
+    Printing
     variabes
+    Functions
+    Conditions
+    Loops
+    Inputs
+    Exit Status
+    Quotes
+    Redirectors
+    Sed editor
